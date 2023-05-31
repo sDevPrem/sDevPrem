@@ -12,8 +12,12 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" height="25" alt="twitter logo"  />
   </a>
   <a href="https://stackoverflow.com/users/15707830" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" height="25" alt="stackoverflow logo"  />
   </a>
+  </div>
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sdevprem&icon=0&color=0" height="25" alt="profile view count"  />
+</div>
 
 ###
 
