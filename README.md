@@ -6,12 +6,14 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/prem-thakur-715418278/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/sDevPrem" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" height="25" alt="twitter logo"  />
   </a>
-</div>
+  <a href="https://stackoverflow.com/users/15707830" target="_blank">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" height="25" alt="twitter logo"  />
+  </a>
 
 ###
 
