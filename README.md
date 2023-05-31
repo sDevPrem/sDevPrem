@@ -29,7 +29,13 @@
 
 ###
 
-<p align="left">I'm Prem, a tech enthusiast from India<br><br>- 🔭 I’m working as an Android Developer<br>- 👯 I’m looking to collaborate on Android Dev Projects<br>- 💬 Ask me about Android<br>- 📚 I'm currently learning Jetpack Compose<br>- ⚡ Read, write, yoga, and exercise when not coding<br>- 📫 How to reach me sdevpremthakur@gmail.com</p>
+- I'm Prem, a tech enthusiast from India
+- 🔭 I’m working as an Android Developer
+- 👯 I’m looking to collaborate on Android Dev Projects
+- 💬 Ask me about Android
+- 📚 I'm currently learning Jetpack Compose
+- ⚡ Read, write, yoga, and exercise when not coding
+- 📫 How to reach me **[sdevpremthakur@gmail.com](mailto:sdevpremthakur@gmail.com)**
 
 ###
 
