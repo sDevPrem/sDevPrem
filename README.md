@@ -14,6 +14,9 @@
   <a href="https://stackoverflow.com/users/15707830" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" height="25" alt="stackoverflow logo"  />
   </a>
+  <a href="https://medium.com/@sdevpremthakur" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25" alt="Medium logo"  />
+  </a>
   </div>
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=sdevprem&icon=0&color=0" height="25" alt="profile view count"  />
@@ -38,6 +41,7 @@
 - 📫 How to reach me **[sdevpremthakur@gmail.com](mailto:sdevpremthakur@gmail.com)**
 - :mag: Explore my apps on **[Play Store](https://play.google.com/store/apps/developer?id=Aid+Sphere&hl=en-IN)**
 - :boy: Get to know me - **[Resume](https://drive.google.com/file/d/1maF5wWY2g4qe_QnWxd3LPTJdOm-X84Fy/view?usp=drive_link)**
+- 🖋️ Explore my in-depth insights on **[Medium](https://medium.com/@sdevpremthakur)**
 
 ###
 
