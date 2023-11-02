@@ -37,7 +37,7 @@
 - 👯 I’m looking to collaborate on Android Dev Projects
 - 💬 Ask me about Android
 - 📚 I'm currently learning Jetpack Compose
-- ⚡ Read, write, yoga, and exercise when not coding
+- ⚡ Read 📖, write 🖋️, yoga 🧘, exercise 🏃‍♂️ and stargazing ⭐ when not coding
 - 📫 How to reach me **[sdevpremthakur@gmail.com](mailto:sdevpremthakur@gmail.com)**
 - :mag: Explore my apps on **[Play Store](https://play.google.com/store/apps/developer?id=Aid+Sphere&hl=en-IN)**
 - :boy: Get to know me - **[Resume](https://drive.google.com/file/d/1maF5wWY2g4qe_QnWxd3LPTJdOm-X84Fy/view?usp=drive_link)**
