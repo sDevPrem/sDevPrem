@@ -36,7 +36,7 @@
 - 🔭 I’m working as a Modern Android Developer
 - 👯 I’m looking to collaborate on Android Dev Projects
 - 💬 Ask me about Android
-- 📚 I'm currently learning Jetpack Compose
+- 📚 I'm currently learning KMP (Kotlin Multiplatform)
 - ⚡ Read 📖, write 🖋️, yoga 🧘, exercise 🏃‍♂️ and stargazing ⭐ when not coding
 - 📫 How to reach me **[sdevpremthakur@gmail.com](mailto:sdevpremthakur@gmail.com)**
 - :mag: Explore my apps on **[Play Store](https://play.google.com/store/apps/developer?id=Aid+Sphere&hl=en-IN)**
